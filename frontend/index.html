@@ -1,31 +1,34 @@
 <!doctype html>
 <html>
 <head>
+  <title>🔌</title>
   <meta charset="utf-8">
   <title>face detector</title>
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
-
   <script src="tracking-min.js"></script>
   <script src="face-min.js"></script>
   <!-- <script src="stats.min.js"></script> -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
   <script src="main.js"></script>
-
 </head>
+
+
 <body>
 
   <!-- edit this div to change what appears when a face shows up -->
   <div id='face_detected' style='display:none' class='panel'>
-      <h1>ATTENDANT PRESENT</h1>
-      <p>Hello! You are now the attendant of cell phone wall. Please do your best to keep everyone's phone charged + happy.</p>
+      <p class="header2">ATTENDANT PRESENT</p>
+      <p class="paragraph">Hello! You are now the attendant of cell phone wall. Please do your best to keep everyone's phone charged + happy.</p>
        </div>
 
   <!-- edit this div to change what appears when a face disappears -->
   <div id='face_not_detected' class='panel'>
-    <h1>SEEKING ATTENDANT</h1>
+    <h1>cell phone wall</h1>
       <div id='cell_phone_wall'>
-      <br /><br /><br /><br /><br />
-      <p> cell phone wall </p>
+      <br />
+      <p> SEEKING ATTENDANT </p>
       </div>
   </div>
 
@@ -34,7 +37,7 @@
   <div id="debug">
     <video id="video" width="600" height="450" preload autoplay loop muted></video>
     <canvas id="canvas" width="600" height="450"></canvas>
-    <input type='text' id='key' placeholder='key...'>
+    <!-- <input type='text' id='key' placeholder='key...'> -->
   </div>
 
 </body>
