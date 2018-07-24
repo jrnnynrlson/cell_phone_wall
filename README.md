@@ -9,8 +9,6 @@ installed at [code societies student showcase](https://www.eventbrite.com/e/sfpc
 <br />
 ![installation](images/DSC_0010.JPG)
 <br />
-![installation](images/DSC_0015.JPG)
-<br />
 ![installation](images/DSC_0034.JPG)
 <br />
 ![installation](images/DSC_0052.JPG)
