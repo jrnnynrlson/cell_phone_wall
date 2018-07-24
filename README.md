@@ -4,14 +4,14 @@ made for lauren mccarthy's [smarter home](https://github.com/lmccart/Smarter-Hom
 <br />
 installed at [code societies student showcase](https://www.eventbrite.com/e/sfpc-code-societies-student-showcase-tickets-47922711119#)  at [prime produce](http://primeproduce.coop/), nyc, july 2018.
 
-#installation at prime produce:
+# installation at prime produce:
 ![installation](images/DSC_0015.JPG)
 <br />
 ![installation](images/DSC_0010.JPG)
 <br />
 ![installation](images/DSC_0015.JPG)
 <br />
-![installation](images/0034.JPG)
+![installation](images/DSC_0034.JPG)
 <br />
 ![installation](images/DSC_0052.JPG)
 <br />
@@ -20,7 +20,7 @@ installed at [code societies student showcase](https://www.eventbrite.com/e/sfpc
 ![installation](images/DSC_0092.JPG)
 <br />
 
-#prototype at sfpc
+# prototype at sfpc
 ![installation](images/seeking_attendant.jpg)
 
 
