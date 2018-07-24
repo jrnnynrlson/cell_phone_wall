@@ -23,7 +23,5 @@ installed at [code societies student showcase](https://www.eventbrite.com/e/sfpc
 #prototype at sfpc
 ![installation](images/seeking_attendant.jpg)
 
-<style>.embed-container {position: relative; padding-bottom: 120%; height: 0; overflow: hidden;} .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='//instagram.com/p/5DGrQtxCIR/embed/' frameborder='0' scrolling='no' allowtransparency='true'></iframe></div>
-
 
 
